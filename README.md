@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aspari701
+- 👀 I’m interested in C++ and JavaScript
+- 🌱 I’m currently learning How to forward audio from one server to another using C++
+- 💞️ I’m looking to collaborate on Nothing Right Now
+- 📫 How to reach me Discord: monexedis#6473
